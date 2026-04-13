@@ -13,21 +13,21 @@
   ...
 }:
 {
-  "@agentclientprotocol/claude-agent-acp@0.26.0" = fetchurl {
-    url = "https://registry.npmjs.org/@agentclientprotocol/claude-agent-acp/-/claude-agent-acp-0.26.0.tgz";
-    hash = "sha512-eNbunIaVwvm+CS7x51cLuosPi8iCrcfUrJLr7zIR6NIlpeXvE3hg/1VY+mRIcHHGmYQtsqPUQaeSqP1w19/fFg==";
+  "@agentclientprotocol/claude-agent-acp@0.27.0" = fetchurl {
+    url = "https://registry.npmjs.org/@agentclientprotocol/claude-agent-acp/-/claude-agent-acp-0.27.0.tgz";
+    hash = "sha512-YvGM+O0M6xXpSeUctwdRj27bH9XE5RTNm8a20n1011s7Hqwj3Y4ENL1XiCVM2bmw4n1Ps+rZIGQU7JmIkQfH6Q==";
   };
-  "@agentclientprotocol/sdk@0.18.1" = fetchurl {
-    url = "https://registry.npmjs.org/@agentclientprotocol/sdk/-/sdk-0.18.1.tgz";
-    hash = "sha512-5TS5Jb1PuNUjadzLxV8hh2tgSsBuNXWc4XRrW3/pNe01bFH82mY/xuVQKr+vmI9swTxxPaEsm1idVIudedoCaA==";
+  "@agentclientprotocol/sdk@0.18.2" = fetchurl {
+    url = "https://registry.npmjs.org/@agentclientprotocol/sdk/-/sdk-0.18.2.tgz";
+    hash = "sha512-l/o9NKvUc00GPa6RFJ4AccQq2O/PAf83xQ75mThHuL3H571iN4+PEdwnTBez67sS8Nv2aSA373xCZ5CbTXEwzA==";
   };
-  "@anthropic-ai/claude-agent-sdk@0.2.96" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-agent-sdk/-/claude-agent-sdk-0.2.96.tgz";
-    hash = "sha512-EK2L4xpcWMNRSE7Zr0mjty/LCB4q60FmUjI+Z0ui91sd3xL1BVj6fhoZsfZFb9IYWkA309IIcrDIfvJXD8yNbw==";
+  "@anthropic-ai/claude-agent-sdk@0.2.104" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-agent-sdk/-/claude-agent-sdk-0.2.104.tgz";
+    hash = "sha512-lVm+nS79r6WWlDnv5AgRzTtAlbP8O6M6kkWmDZAWE3nt9agmngxls9frJFvH55uzws2+6l0yyup/JYspfijkzw==";
   };
-  "@anthropic-ai/sdk@0.80.0" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/sdk/-/sdk-0.80.0.tgz";
-    hash = "sha512-WeXLn7zNVk3yjeshn+xZHvld6AoFUOR3Sep6pSoHho5YbSi6HwcirqgPA5ccFuW8QTVJAAU7N8uQQC6Wa9TG+g==";
+  "@anthropic-ai/sdk@0.81.0" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/sdk/-/sdk-0.81.0.tgz";
+    hash = "sha512-D4K5PvEV6wPiRtVlVsJHIUhHAmOZ6IT/I9rKlTf84gR7GyyAurPJK7z9BOf/AZqC5d1DhYQGJNKRmV+q8dGhgw==";
   };
   "@babel/runtime@7.29.2" = fetchurl {
     url = "https://registry.npmjs.org/@babel/runtime/-/runtime-7.29.2.tgz";
