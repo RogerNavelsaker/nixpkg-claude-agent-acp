@@ -5,7 +5,7 @@
     "": {
       "name": "@rona/nix-codex",
       "dependencies": {
-        "@agentclientprotocol/claude-agent-acp": "0.29.1",
+        "@agentclientprotocol/claude-agent-acp": "0.29.2",
       },
       "devDependencies": {
         "@types/bun": "^1.3.10",
@@ -14,7 +14,7 @@
     },
   },
   "packages": {
-    "@agentclientprotocol/claude-agent-acp": ["@agentclientprotocol/claude-agent-acp@0.29.1", "", { "dependencies": { "@agentclientprotocol/sdk": "0.19.0", "@anthropic-ai/claude-agent-sdk": "0.2.112", "zod": "^3.25.0 || ^4.0.0" }, "bin": { "claude-agent-acp": "dist/index.js" } }, "sha512-LT0K+7AlVru/5AxISLedp1o536StblVllMG8GDptK/s+1pz6Wxrqtgc+mAuNhFmoe9em1DLkOfy1sZLCvHi2DA=="],
+    "@agentclientprotocol/claude-agent-acp": ["@agentclientprotocol/claude-agent-acp@0.29.2", "", { "dependencies": { "@agentclientprotocol/sdk": "0.19.0", "@anthropic-ai/claude-agent-sdk": "0.2.112", "zod": "^3.25.0 || ^4.0.0" }, "bin": { "claude-agent-acp": "dist/index.js" } }, "sha512-Pg5sh8mxBsAmmKImlzgPYXGc+BW7xxXEC5/WWE+fQSPInj8ueRHinNxJxgIwRDwitlMs+NlMoVAGGgGMar92Bg=="],
 
     "@agentclientprotocol/sdk": ["@agentclientprotocol/sdk@0.19.0", "", { "peerDependencies": { "zod": "^3.25.0 || ^4.0.0" } }, "sha512-U9I8ws9WTOk6jCBAWpXefGSDgVXn14/kV6HFzwWGcstQ02mOQgClMAROHmoIn9GqZbDBDEOkdIbP4P4TEMQdug=="],
 

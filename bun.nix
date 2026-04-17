@@ -13,9 +13,9 @@
   ...
 }:
 {
-  "@agentclientprotocol/claude-agent-acp@0.29.1" = fetchurl {
-    url = "https://registry.npmjs.org/@agentclientprotocol/claude-agent-acp/-/claude-agent-acp-0.29.1.tgz";
-    hash = "sha512-LT0K+7AlVru/5AxISLedp1o536StblVllMG8GDptK/s+1pz6Wxrqtgc+mAuNhFmoe9em1DLkOfy1sZLCvHi2DA==";
+  "@agentclientprotocol/claude-agent-acp@0.29.2" = fetchurl {
+    url = "https://registry.npmjs.org/@agentclientprotocol/claude-agent-acp/-/claude-agent-acp-0.29.2.tgz";
+    hash = "sha512-Pg5sh8mxBsAmmKImlzgPYXGc+BW7xxXEC5/WWE+fQSPInj8ueRHinNxJxgIwRDwitlMs+NlMoVAGGgGMar92Bg==";
   };
   "@agentclientprotocol/sdk@0.19.0" = fetchurl {
     url = "https://registry.npmjs.org/@agentclientprotocol/sdk/-/sdk-0.19.0.tgz";
