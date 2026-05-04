@@ -3,7 +3,7 @@
   "package": {
     "repo": "claude-agent-acp",
     "npmName": "@agentclientprotocol/claude-agent-acp",
-    "version": "0.31.4"
+    "version": "0.32.0"
   },
   "binary": {
     "name": "claude-agent-acp",
@@ -11,8 +11,8 @@
     "entrypoint": "dist/index.js"
   },
   "dist": {
-    "url": "https://registry.npmjs.org/@agentclientprotocol/claude-agent-acp/-/claude-agent-acp-0.31.4.tgz",
-    "hash": "sha512-Ge2qzNN7vXQje0H+xoPhcRToubgdkgpY/YoqNSeJGpx8S90V/uposdsE+OSgIA+4nHcUEbgV9OmCiIqpyEsA9g=="
+    "url": "https://registry.npmjs.org/@agentclientprotocol/claude-agent-acp/-/claude-agent-acp-0.32.0.tgz",
+    "hash": "sha512-3WIaD1bTmIciqHdeU97oeNajOG9H+ctloXnQ+R/T563C2CM8u1K7QsNqqgqR2F+Cn8NVBkXdHRvAMtUHglLzAw=="
   },
   "meta": {
     "description": "An ACP-compatible coding agent powered by the Claude Agent SDK (TypeScript)",
